@@ -1,0 +1,2 @@
+
+option(IOP_TRACE_MPI_IO_FLAG "Trace MPI IO" ON)
